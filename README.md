@@ -6,7 +6,7 @@
 
 ## CSCI 3170
 - [ ] Hw 2                    ###-- 07-Nov
-- [ ] Short Assignment 2      ###-- 06-Nov
+- [x] Short Assignment 2      ###-- 06-Nov
 - [ ] Project                 ###-- 04-Dec
 
 ## IERG 4841
@@ -23,3 +23,8 @@
 - [ ] Final Report            -- 15-Nov
 - [ ] Poster                  -- 16-Nov
 - [ ] Presentation Video      -- 20-Nov
+
+## GECC 4130
+- [ ] Project Report          -- 06-Dec
+- [ ] Reflective Eassay       -- 06-Dec
+- [ ] Peer Evaluation         -- 06-Dec
