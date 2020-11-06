@@ -5,7 +5,7 @@
 - [ ] Project TBA
 
 ## CSCI 3170
-- [ ] Hw 2                    ###-- 07-Nov
+- [x] Hw 2                    ###-- 07-Nov
 - [x] Short Assignment 2      ###-- 06-Nov
 - [ ] Project                 ###-- 04-Dec
 
