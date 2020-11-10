@@ -9,8 +9,8 @@
 - [x] Short Assignment 2      ###-- 06-Nov
 - [ ] Project                 ###-- 04-Dec
 
-~~## IERG 4841
-- [ ] Lab 2                   -- 15-Nov~~
+~~## IERG 4841~~
+~~- [ ] Lab 2                   -- 15-Nov~~
 
 ## CSCI 3150
 - [ ] Final Exam              -- 15-Dec
