@@ -26,6 +26,8 @@
 - [ ] Final Report            -- 15-Nov
 - [ ] Poster                  -- 16-Nov
 - [ ] Presentation Video      -- 20-Nov
+- [ ] Successfully uploaded and retrieve menu with photos
+- [ ] Built an api for create, update and cancel order
 
 ## GECC 4130
 - [ ] Project Report          -- 06-Dec
