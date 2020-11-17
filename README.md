@@ -10,6 +10,7 @@
 - [x] Short Assignment 2      ###-- 06-Nov
 - [x] short ASsignment 3.     ###-- 21-Nov
 - [ ] Project                 ###-- 04-Dec
+- [ ] hw3
 
 ~~## IERG 4841~~
 ~~- [ ] Lab 2                   -- 15-Nov~~
