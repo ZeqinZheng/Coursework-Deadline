@@ -2,13 +2,13 @@
 
 ## IERG 4220
 - [x] Programming Assignment 1 ###-- 07-Nov
-- [ ] Programming Assignment 2 ###-- 21-Nov
+- [x] Programming Assignment 2 ###-- 21-Nov
 - [ ] Project TBA
 
 ## CSCI 3170
 - [x] Hw 2                    ###-- 07-Nov
 - [x] Short Assignment 2      ###-- 06-Nov
-- [ ] short ASsignment 3.     ###-- 21-Nov
+- [x] short ASsignment 3.     ###-- 21-Nov
 - [ ] Project                 ###-- 04-Dec
 
 ~~## IERG 4841~~
@@ -20,7 +20,7 @@
 - [ ] HW 2 & bonus            -- 22-Nov
 
 ## IERG 4998
-- [ ] Backend Web Portal      -------------- 12-Nov
+- [x] Backend Web Portal      -------------- 12-Nov
 - [ ] Backend API             -------------- 12-Nov
 - [ ] Final Report            -- 15-Nov
 - [ ] Poster                  -- 16-Nov
