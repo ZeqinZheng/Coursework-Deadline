@@ -17,8 +17,9 @@
 
 ## CSCI 3150
 - [ ] Final Exam              -- 15-Dec
-- [ ] Project                 -- 05-Dec
+- [ ] Project                 -- 10-Dec
 - [ ] HW 2 & bonus            -- 22-Nov
+- [ ] hw 3 & bonus            -- 05-Dec
 
 ## IERG 4998
 - [x] Backend Web Portal      -------------- 12-Nov
