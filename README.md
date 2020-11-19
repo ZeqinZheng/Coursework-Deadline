@@ -3,6 +3,8 @@
 ## IERG 4220
 - [x] Programming Assignment 1 ###-- 07-Nov
 - [x] Programming Assignment 2 ###-- 21-Nov
+- [ ] PA 3                        -- 26-Nov
+- [ ] PA 4                        -- 02-Dec
 - [ ] Project TBA
 
 ## CSCI 3170
