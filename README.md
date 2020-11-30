@@ -3,8 +3,8 @@
 ## IERG 4220
 - [x] Programming Assignment 1 ###-- 07-Nov
 - [x] Programming Assignment 2 ###-- 21-Nov
-- [ ] PA 3                        -- 26-Nov
-- [ ] PA 4                        -- 02-Dec
+- [x] PA 3                        -- 26-Nov
+- [x] PA 4                        -- 02-Dec
 - [ ] Project TBA
 
 ## CSCI 3170
@@ -20,16 +20,16 @@
 ## CSCI 3150
 - [ ] Final Exam              -- 15-Dec
 - [ ] Project                 -- 10-Dec
-- [ ] HW 2 & bonus            -- 22-Nov
-- [ ] hw 3 & bonus            -- 05-Dec
+- [x] HW 2 & bonus            -- 22-Nov
+- [x] hw 3 & bonus            -- 05-Dec
 
 ## IERG 4998
 - [x] Backend Web Portal      -------------- 12-Nov
-- [ ] Backend API             -------------- 12-Nov
+- [x] Backend API             -------------- 12-Nov
 - [ ] Final Report            -- 15-Nov
 - [ ] Poster                  -- 16-Nov
 - [ ] Presentation Video      -- 20-Nov
-- [ ] Successfully uploaded and retrieve menu with photos
+- [x] Successfully uploaded and retrieve menu with photos
 - [ ] Built an api for create, update and cancel order
 
 ## GECC 4130
