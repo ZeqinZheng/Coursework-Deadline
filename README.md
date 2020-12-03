@@ -5,7 +5,7 @@
 - [x] Programming Assignment 2 ###-- 21-Nov
 - [x] PA 3                        -- 26-Nov
 - [x] PA 4                        -- 02-Dec
-- [ ] Project TBA
+- [ ] Project Report & Present    -- 23-Dec
 - [ ] Hw 2                        -- 12-Dec
 
 ## CSCI 3170
@@ -25,6 +25,7 @@
 - [x] HW 2 & bonus            -- 22-Nov
 - [x] hw 3                    -- 05-Dec
 - [ ] hw 3 bonus              -- 12-Dec
+- [ ] lab 10                  -- 20-Dec
 
 ## IERG 4998
 - [x] Backend Web Portal      -------------- 12-Nov
@@ -38,3 +39,8 @@
 - [ ] Project Report          -- 06-Dec
 - [ ] Reflective Eassay       -- 06-Dec
 - [ ] Peer Evaluation         -- 06-Dec
+
+## FINAL EXAM
+- [ ] CSCI 3170               -- 12-Dec
+- [ ] CSCI 3150               -- 15-Dec
+- [ ] UGEA 2150               -- 16-Dec
