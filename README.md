@@ -12,7 +12,7 @@
 - [x] Hw 2                    ###-- 07-Nov
 - [x] Short Assignment 2      ###-- 06-Nov
 - [x] short ASsignment 3.     ###-- 21-Nov
-- [ ] Project                 ###-- 04-Dec
+- [x] Project                 ###-- 04-Dec
 - [ ] hw3                     ###-- 06-Dec
 - [ ] SA 5                    ###-- 06-Dec
 
