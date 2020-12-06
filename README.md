@@ -13,8 +13,8 @@
 - [x] Short Assignment 2      ###-- 06-Nov
 - [x] short ASsignment 3.     ###-- 21-Nov
 - [x] Project                 ###-- 04-Dec
-- [ ] hw3                     ###-- 06-Dec
-- [ ] SA 5                    ###-- 06-Dec
+- [x] hw3                     ###-- 06-Dec
+- [ ] SA 5                    ###-- 09-Dec
 
 ~~## IERG 4841~~
 ~~- [ ] Lab 2                   -- 15-Nov~~
@@ -30,15 +30,15 @@
 ## IERG 4998
 - [x] Backend Web Portal      -------------- 12-Nov
 - [x] Backend API             -------------- 12-Nov
-- [ ] Final Report            -- 15-Nov
-- [ ] Styling UI              -- 02-Dec
+- [x] Final Report            -- 15-Nov
+- [x] Styling UI              -- 02-Dec
 - [x] Successfully uploaded and retrieve menu with photos
-- [ ] Built an api for create, update and cancel order
+- [x] Built an api for create, update and cancel order
 
 ## GECC 4130
-- [ ] Project Report          -- 06-Dec
-- [ ] Reflective Eassay       -- 06-Dec
-- [ ] Peer Evaluation         -- 06-Dec
+- [x] Project Report          -- 06-Dec
+- [x] Reflective Eassay       -- 06-Dec
+- [x] Peer Evaluation         -- 06-Dec
 
 ## FINAL EXAM
 - [ ] CSCI 3170               -- 12-Dec
