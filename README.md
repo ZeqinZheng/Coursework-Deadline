@@ -5,8 +5,8 @@
 - [x] Programming Assignment 2 ###-- 21-Nov
 - [x] PA 3                        -- 26-Nov
 - [x] PA 4                        -- 02-Dec
-- [ ] Project Report & Present    -- 23-Dec
-- [ ] Hw 2                        -- 12-Dec
+- [x] Project Report & Present    -- 22-Dec
+- [x] Hw 2                        -- 12-Dec
 
 ## CSCI 3170
 - [x] Hw 2                    ###-- 07-Nov
@@ -14,17 +14,17 @@
 - [x] short ASsignment 3.     ###-- 21-Nov
 - [x] Project                 ###-- 04-Dec
 - [x] hw3                     ###-- 06-Dec
-- [ ] SA 5                    ###-- 09-Dec
+- [x] SA 5                    ###-- 09-Dec
 
 ~~## IERG 4841~~
 ~~- [ ] Lab 2                   -- 15-Nov~~
 
 ## CSCI 3150
-- [ ] Final Exam              -- 15-Dec
+- [x] Final Exam              -- 15-Dec
 - [ ] Project                 -- 23-Dec
 - [x] HW 2 & bonus            -- 22-Nov
 - [x] hw 3                    -- 05-Dec
-- [ ] hw 3 bonus              -- 12-Dec
+~~- [] hw 3 bonus              -- 12-Dec~~
 - [ ] lab 10                  -- 20-Dec
 
 ## IERG 4998
@@ -41,6 +41,6 @@
 - [x] Peer Evaluation         -- 06-Dec
 
 ## FINAL EXAM
-- [ ] CSCI 3170               -- 12-Dec
-- [ ] CSCI 3150               -- 15-Dec
-- [ ] UGEA 2150               -- 16-Dec
+- [x] CSCI 3170               -- 12-Dec
+- [x] CSCI 3150               -- 16-Dec
+- [x] UGEA 2150               -- 16-Dec
